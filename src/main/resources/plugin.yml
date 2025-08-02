@@ -1,0 +1,8 @@
+name: advancedkeepinventory
+version: '1.0'
+main: io.github.howardtren.advancedkeepinventory.Advancedkeepinventory
+api-version: '1.21'
+load: STARTUP
+authors: [ Howard Tren ]
+description: Advanced Keep Inventory Plugin
+website: io.github.howardtren
