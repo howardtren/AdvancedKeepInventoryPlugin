@@ -6,3 +6,12 @@ load: STARTUP
 authors: [ Howard Tren ]
 description: Advanced Keep Inventory Plugin
 website: io.github.howardtren
+
+commands:
+  aki:
+    description: Advanced Keep Inventory
+    permission: aki.manage
+permission:
+  aki.manage:
+    description: Advanced Keep Inventory
+    default: false
