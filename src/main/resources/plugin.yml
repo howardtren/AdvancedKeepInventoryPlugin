@@ -1,5 +1,5 @@
 name: advancedkeepinventory
-version: '1.0'
+version: '1.01'
 main: io.github.howardtren.advancedkeepinventory.Advancedkeepinventory
 api-version: '1.21'
 load: STARTUP
